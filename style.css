@@ -1,0 +1,22 @@
+#footer {
+    position: fixed;
+    bottom: 0;
+    line-height: 3 ;
+    color: whitesmoke;
+    background-color: grey;
+    text-align: center;
+    width: 100%;
+    font-weight: bold;
+}
+
+.note {
+    font-size: 17px;
+    color: black;
+}
+
+.heading {
+    font-size:17px;
+    width: 100%;
+    margin: 0;
+    box-shadow: 5px 5px 5px rgb(53, 103, 210);
+}
